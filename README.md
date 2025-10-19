@@ -1,5 +1,4 @@
 # GNURADIO
-This repository was created to explore the GNURADIO tool. It is also a basic practical class given at the National University of Rio Cuarto, Cordoba, Argentina.
-
+Este repositorio se creó para explorar la herramienta GNURADIO. Esto proviene de un taller dado en la Universidad Nacional de Río Cuarto, Córdoba, Argentina.
 
 
